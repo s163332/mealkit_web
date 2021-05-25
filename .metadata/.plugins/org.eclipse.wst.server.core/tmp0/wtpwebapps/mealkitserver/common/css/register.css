@@ -1,0 +1,64 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-size: 0.75em;
+    font-family: '맑은 고딕', 'Malgun Gothic';
+}
+
+.wrapper_hd {
+    width: 1300px;
+    margin: 0px auto;
+    padding: 0 0 0 0;
+}
+
+.Join1 {
+    font-weight: bold;
+    color: #000000;
+    background-color: #f7f7f7;
+    padding-right: 10px;
+    font-size: 11pt;
+    text-align: right;
+}
+
+.Join2 {
+    color: #000000;
+    background-color: #FFF;
+    padding-left: 10px;
+    text-align: left;
+    font-size: 11pt;
+}
+
+.Input1 {
+    width: 150px;
+    height: 26px;
+    border: 1px solid #CCCCCC;
+    vertical-align: middle;
+}
+
+.JoinBtn01 {
+    padding: 5px 50px 5px 50px;
+    border: 0;
+    background: #333333;
+    color: #FFFFFF;
+    cursor: pointer;
+    display: inline-block;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.JoinBtn02 {
+    padding: 5px 50px 5px 50px;
+    border: 1px solid #EB0000;
+    background: #FFF;
+    color: #EB0000;
+    cursor: pointer;
+    display: inline-block;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+html, h1, h2, h3, h4, h5, h6, form, fieldset {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}

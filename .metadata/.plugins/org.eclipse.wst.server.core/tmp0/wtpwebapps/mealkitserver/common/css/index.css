@@ -1,0 +1,60 @@
+body {
+	background: #0ca3d2;
+}
+
+.header {
+	height: 30px;
+	margin: 30px;
+}
+
+.header .top_title_box {
+	list-style: none;
+	color: white;
+	float: left;
+	line-height: 30px;
+	vertical-align: middle;
+	text-align: center;
+	padding: 0px;
+}
+
+.header .top_member_box {
+	list-style: none;
+	color: white;
+	float: right;
+	line-height: 30px;
+	vertical-align: middle;
+	text-align: center;
+	padding: 0px;
+}
+
+.header .top_member_box li {
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+    border : 0;
+    float: left;
+}
+
+.header .link {
+	text-decoration:none;
+	color: white;
+	display: block;
+	width: 150px;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+.txt_bar {
+	display: inline-block;
+	width: 1px;
+	margin: 0 10px 0 0;
+}
+
+.middle {
+	padding: 100px 20px;
+}
+
+.middle img {
+	height: 200;
+	width: 200;
+	margin: 10px;
+}

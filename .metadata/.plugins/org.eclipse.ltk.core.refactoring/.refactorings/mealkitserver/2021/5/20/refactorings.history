@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;mealkitserver/WebContent/search/namesearch.jsp&apos; to &apos;mealkit_list.jsp&apos;" description="Rename resource &apos;namesearch.jsp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="WebContent/search/namesearch.jsp" name="mealkit_list.jsp" stamp="1620731178397" updateReferences="true"/>
+</session>

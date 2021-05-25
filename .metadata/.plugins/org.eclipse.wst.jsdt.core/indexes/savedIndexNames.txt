@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+C:\Users\lbg\eclipse-mealkit\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1344467621.index
+2309103701.index
+814843382.index
+3751872581.index
+3868874440.index
+2649754573.index
+3160765539.index

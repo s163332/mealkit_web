@@ -1,0 +1,7 @@
+INDEX VERSION 1.131
+C:\Users\lbg\eclipse-mealkit\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\51268261.index
+\mealkitserver\src
+C:\Users\lbg\eclipse-mealkit\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4205772946.index
+\mealkitserver\src
+C:\Users\lbg\eclipse-mealkit\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\814843382.index
+\mealkitserver\src

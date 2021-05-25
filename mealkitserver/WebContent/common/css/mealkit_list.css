@@ -1,0 +1,252 @@
+body {
+	background: #0ca3d2;
+	position: relative;
+    min-width: 1450px;
+}
+
+.header {
+	height: 145px;
+	margin: 30px;
+}
+
+.header .top_title_box {
+	list-style: none;
+	color: white;
+	float: left;
+	line-height: 30px;
+	vertical-align: middle;
+	text-align: center;
+	padding: 0px;
+}
+
+.header .top_member_box {
+	list-style: none;
+	color: white;
+	float: right;
+	line-height: 30px;
+	vertical-align: middle;
+	text-align: center;
+	padding: 0px;
+}
+
+.header .top_member_box li {
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+    border : 0;
+    float: left;
+}
+
+.header .link {
+	text-decoration:none;
+	color: white;
+	display: block;
+	width: 150px;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+.txt_bar {
+	display: inline-block;
+	width: 1px;
+	margin: 0 10px 0 0;
+}
+
+#contents {
+	position: relative;
+    width: 1200px;
+    margin: 0 auto;
+    padding: 0 0 30px 0;
+}
+
+.mealkit_list_item {
+	position: relative;
+}
+
+.mealkit_list_item_title {
+	color: white;
+}
+
+.pick_list_num {
+	color: white;
+}
+
+.pick_list_num strong {
+	color: #FA7630;
+}
+
+.search {
+	height: 31px;
+	width: 300px;
+	border: 1px solid #FA7630;
+	background: white;
+	position: absolute;
+	right: 0px;
+	top: 40px;
+}
+
+.search input {
+	font-size: 16px;
+	width: 250px;
+	padding: 5.5px;
+	border: 0px;
+	outline: none;
+	float: left;
+}
+
+.search button {
+	width: 50px;
+	height: 100%;
+	border: 0px;
+	background: #FA7630;
+	outline: none;
+	float: right;
+	color: #ffffff;
+}
+
+.mealkit_pick_list .check_list_box {
+	height: 28px;
+    margin: 0 0 20px 0;
+    padding: 9px 0 10px 0;
+    border-top: 1px solid #dbdbdb;
+    border-bottom: 1px solid #dbdbdb;
+    clear: both;
+}
+
+.mealkit_pick_list .check_list_box .check {
+	float: left;
+    margin: 0 20px 0 0;
+    padding: 5px 0 0;
+    position: relative;
+}
+
+.mealkit_pick_list .check_list_box .check li {
+	float: left;
+    margin: 0 20px 0 0;
+    padding: 5px 0 0;
+    position: relative;
+}
+
+.mealkit_pick_list .check_list_box .check input {
+	position: absolute;
+    top: 3px;
+    left: 1px;
+    width: 0;
+    z-index: -1;
+}
+
+.mealkit_pick_list .check_list_box .check label {
+	color: white;
+}
+
+.mealkit_pick_list .check_list_box .check label.on {
+	color: #FA7630;
+    font-weight: bold;
+    background: url(../commen/image/checkpoint) no-repeat left 5px;
+}
+
+.mealkit_list {
+	position: relative;
+    width: 100%;
+}
+
+.mealkit_list ul {
+	float: left;
+    width: 100%;
+    font-size: 0;
+}
+
+.mealkit_list li {
+	width: 25%;
+	display: inline-block;
+    position: relative;
+    margin: 30px 0 10px 0;
+    text-align: center;
+    vertical-align: top;
+    font-size: 12px;
+}
+
+.mealkit_box {
+	padding: 0 10px;
+    text-align: center;
+}
+
+.mealkit_image_box {
+	width: 280px;
+	height: 280px;
+	display: inline-block !important;
+    overflow: hidden;
+    position: relative;
+    text-align: center;
+    border: 1px solid #ebebeb;
+    vertical-align: middle;
+}
+
+.mealkit_image_box img {
+	width: 280px;
+	height: 280px;
+}
+
+.mealkit_info_box {
+	padding: 5px 0 0 0;
+}
+
+.mealkit_money_box {
+	padding: 10px 0 0 0;
+}
+
+.pagenum ul {
+	padding: 20px 0 0;
+	text-align: center;
+}
+
+.pagenum li {
+	display: inline-block;
+    min-width: 26px;
+    vertical-align: middle;
+}
+
+.pagenum .on {
+	font-weight: bold;
+}
+
+.pagenum span {
+	display: block;
+	height: 30px;
+	width: 30px;
+}
+
+.pagenum li.on span {
+	font-weight: bold;
+    color: white;
+    background: #FA7630;
+}
+
+a {
+	color: white;
+	text-decoration: none;
+}
+
+ul, li {
+	list-style: none;
+}
+
+input {
+	vertical-align: middle;
+}
+
+body, div, ul, li, form, input footer {
+	margin: 0;
+    padding: 0;
+}
+
+.footer {
+	min-width: 1450px;
+}
+
+footer {
+	width: 1200px;
+	border-top: 2px solid #000;
+	overflow: hidden;
+    padding: 30px 0 40px 0;
+    margin: 0 auto;
+}
